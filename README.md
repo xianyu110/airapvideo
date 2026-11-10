@@ -4,7 +4,7 @@ RemixMeme 的 airapvideo 说唱专题已经上线，并且在做一档限时免�
 
 页面上已经写着标识：**免费 · Grok Imagine · 至 2026年11月17日 23:59 北京时间**。
 
-中文专题页在 [https://remixmeme.com/zh/airapvideo](https://remixmeme.com/zh/airapvideo)。同一主题也可以从 [https://ai-rap-video.asia/airapvideo](https://ai-rap-video.asia/airapvideo) 进入。
+中文专题页在 [https://ai-rap-video.asia/zh/airapvideo](https://ai-rap-video.asia/zh/airapvideo)。
 
 ## 免费范围要看清楚
 
@@ -13,7 +13,7 @@ RemixMeme 的 airapvideo 说唱专题已经上线，并且在做一档限时免�
 下面这几条仍要扣积分，或不在免费范围内：
 
 - 专题里如果改用其他模型（页面上还能选 MiniMax H3、Seedance 2.5、Wan 3.0、Kling 4.0 等），照常扣积分
-- 在 remixmeme.com 主站的「创作」页（`/create`），或打开与该专题无关的模板，即使用 Grok Imagine，也不免费
+- 在 ai-rap-video.asia 的「创作」页（`/zh/create`），或打开与该专题无关的模板，即使用 Grok Imagine，也不免费
 
 另外，生成前仍然需要登录，这项规则没有改。
 
@@ -36,11 +36,11 @@ RemixMeme 的 airapvideo 说唱专题已经上线，并且在做一档限时免�
 
 ![演唱会舞台模板海报](https://upload.maynor1024.live/file/1794292360037_ai-concert-singing-video.jpg)
 
-以 [Boombox Rap](https://remixmeme.com/zh/templates/boombox-rap-ai-trend) 为例：模板要求两张清晰成人照片，格式 JPG / PNG / WEBP，单张不超过 9 MB；出镜者须年满 18 岁，且你拥有照片使用权。选中 Grok Imagine 时，生成按钮会显示「免费」。
+以 [Boombox Rap](https://ai-rap-video.asia/zh/templates/boombox-rap-ai-trend) 为例：模板要求两张清晰成人照片，格式 JPG / PNG / WEBP，单张不超过 9 MB；出镜者须年满 18 岁，且你拥有照片使用权。选中 Grok Imagine 时，生成按钮会显示「免费」。
 
 ## 怎么参加
 
-1. 打开 [airapvideo 中文专题页](https://remixmeme.com/zh/airapvideo)，或从 [https://ai-rap-video.asia/airapvideo](https://ai-rap-video.asia/airapvideo) 进入同一主题。
+1. 打开 [airapvideo 中文专题页](https://ai-rap-video.asia/zh/airapvideo)。
 2. 先登录。
 3. 选一个说唱模板，进入后确认模型选的是 **Grok Imagine**。
 4. 按模板要求上传照片，勾选授权与年龄确认，再生成。
@@ -49,5 +49,4 @@ RemixMeme 的 airapvideo 说唱专题已经上线，并且在做一档限时免�
 
 想先看模板再决定，直接从专题页点「一键生成同款」即可。
 
-→ [airapvideo 中文专题页](https://remixmeme.com/zh/airapvideo)  
-→ [同一主题（ai-rap-video.asia）](https://ai-rap-video.asia/airapvideo)
+→ [airapvideo 中文专题页](https://ai-rap-video.asia/zh/airapvideo)
